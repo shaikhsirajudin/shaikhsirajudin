@@ -16,9 +16,9 @@ I take pride in engineering excellence through **discipline, continuous learning
 ### 🧠 Core Technical Expertise
 🔹 .NET • .NET Core • C# • MVC • Web API • WCF • Microservices  
 🔹 React • Angular • NestJS • TypeScript • JavaScript • Bootstrap  
-🔹 Go • Python 
-🔹 Java • Spring Boot
-🔹 Event-Driven & Serverless Architectures  
+🔹 Go • Python   
+🔹 Java • Spring Boot  
+🔹 Event-Driven & Serverless Architectures   
 🔹 CI/CD • Bamboo • SonarQube • Bitbucket • Git • SVN • TFS  
 🔹 Cloud: **AWS (EC2 | ECS | EBS | Lambda | VPC | IAM | API Gateway | CloudWatch | RDS | SQS | S3 | Athena | CloudFormation | Kafka)**  
 🔹 Databases: SQL Server • Oracle • MySQL • PostgreSQL • DynamoDB • MongoDB  
