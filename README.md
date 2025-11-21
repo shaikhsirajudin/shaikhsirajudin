@@ -7,7 +7,7 @@ Principal Engineer & Application Architect • Lead .NET Full Stack Developer (A
 ---
 
 ### 🚀 Professional Summary
-17+ years of experience in **Enterprise Application Development**, **Cloud Architecture**, and **Healthcare IT** — specializing in building **scalable, secure, HIPAA-compliant systems**. Proven track record in delivering high-performance platforms using **.NET Core, C#, React, Angular, Go, Python**, and **AWS in distributed microservices environments**.
+20+ years of experience in **Enterprise Application Development**, **Cloud Architecture**, and **Healthcare IT** — specializing in building **scalable, secure, HIPAA-compliant systems**. Proven track record in delivering high-performance platforms using **.NET Core, C#, React, Angular, Go, Python**, and **AWS in distributed microservices environments**.
 
 I take pride in engineering excellence through **discipline, continuous learning, and innovation** — aiming to create meaningful technology that enhances care delivery and improves lives.
 
@@ -38,7 +38,7 @@ I take pride in engineering excellence through **discipline, continuous learning
 
 ### 💼 Highlights of Achievements
 ✔ Designed & migrated enterprise healthcare applications to **AWS cloud using .NET Core**  
-✔ 6+ years building & integrating **FHIR-based APIs and healthcare data models**  
+✔ 17+ years building & integrating **FHIR-based APIs and healthcare data models**  
 ✔ Built secure & scalable **microservice ecosystems** supporting millions of transactions  
 ✔ Delivered CI/CD pipelines enabling **zero-downtime deployments**  
 ✔ Automated cross-application testing using **BDD frameworks (SpecFlow, Cucumber, Selenium)**  
