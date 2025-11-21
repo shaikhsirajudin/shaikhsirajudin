@@ -16,8 +16,7 @@ I take pride in engineering excellence through **discipline, continuous learning
 ### 🧠 Core Technical Expertise
 🔹 .NET • .NET Core • C# • MVC • Web API • WCF • Microservices  
 🔹 React • Angular • NestJS • TypeScript • JavaScript • Bootstrap  
-🔹 Go • Python  
-🔹 Java • Spring Boot
+🔹 Go • Python • Java • Spring Boot  
 🔹 Event-Driven & Serverless Architectures  
 🔹 CI/CD • Bamboo • SonarQube • Bitbucket • Git • SVN • TFS  
 🔹 Cloud: **AWS (EC2 | ECS | EBS | Lambda | VPC | IAM | API Gateway | CloudWatch | RDS | SQS | S3 | Athena | CloudFormation | Kafka)**  
@@ -67,6 +66,22 @@ I take pride in engineering excellence through **discipline, continuous learning
 
 ---
 
+### 🚀 What I’m Focusing On Now
+🔸 **Cloud-native, distributed application architecture** across AWS & Azure  
+🔸 **Enterprise healthcare platforms using FHIR & interoperability standards (HL7, EDI, X12)**  
+🔸 **End-to-end modernization of legacy systems using .NET Core + microservices**  
+🔸 **Generative AI engineering with LLMs** — OpenAI, Azure OpenAI, Gemini & Claude  
+🔸 **RAG (Retrieval-Augmented Generation) pipelines** with vector databases (Pinecone, Weaviate, Milvus, FAISS)  
+🔸 **LangChain / LlamaIndex based intelligent application development**  
+🔸 **AI agent architecture** — multi-agent workflow automation for enterprise use cases  
+🔸 **Building domain-specific knowledge graphs & embeddings for healthcare AI**  
+🔸 **Integration of AI into existing clinical workflows & claims processing systems**  
+🔸 **Automation & AI-powered observability** using CloudWatch, Datadog & ELK  
+🔸 **Web3 application architecture** — decentralized identity, smart contracts & secure data exchange  
+🔸 **Cross-industry innovation combining AI + Blockchain + Cloud for trust, transparency & automation**  
+
+---
+
 ### 📬 Connect With Me
 📧 **Email:** sirajuddinqamaruddinshaikh@gmail.com  
 🔗 **LinkedIn:** https://www.linkedin.com/in/shaikhsirajuddin/  
@@ -85,10 +100,4 @@ I take pride in engineering excellence through **discipline, continuous learning
 | Tools | Visual Studio, VS Code, SnapLogic, IBM WebSphere |
 
 ---
-
-### 🚀 What I’m Focusing On Now
-🔸 Cloud-native, distributed application architecture  
-🔸 Enterprise healthcare platforms with FHIR & interoperability  
-🔸 Microservices, API modernization & digital transformation  
-
----
+  
