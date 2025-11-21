@@ -16,7 +16,7 @@ I take pride in engineering excellence through **discipline, continuous learning
 ### 🧠 Core Technical Expertise
 🔹 .NET • .NET Core • C# • MVC • Web API • WCF • Microservices  
 🔹 React • Angular • NestJS • TypeScript • JavaScript • Bootstrap  
-🔹 Go • Python   
+🔹 Go • Python • Nodejs  
 🔹 Java • Spring Boot  
 🔹 Event-Driven & Serverless Architectures   
 🔹 CI/CD • Bamboo • SonarQube • Bitbucket • Git • SVN • TFS  
@@ -93,7 +93,7 @@ I take pride in engineering excellence through **discipline, continuous learning
 ### ⚙️ Tech Stack at a Glance
 | Category | Technologies |
 |---------|--------------|
-| Backend | .NET Core, C#, Java, Go, Python, Web API, WCF |
+| Backend | .NET Core, C#, Java, Go, Python, Web API, WCF, Nodejs |
 | Frontend | React, Angular, NestJS, JavaScript, TypeScript |
 | Cloud | AWS, Azure |
 | DevOps | Git, Bitbucket, Bamboo, CI/CD, SonarQube |
