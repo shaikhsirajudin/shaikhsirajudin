@@ -39,6 +39,7 @@ I take pride in engineering excellence through **discipline, continuous learning
 ### 💼 Highlights of Achievements
 ✔ Designed & migrated enterprise healthcare applications to **AWS cloud using .NET Core**  
 ✔ 17+ years building & integrating **FHIR-based APIs and healthcare data models**  
+✔ 3 years building & integrating **Logistic and Retails**  
 ✔ Built secure & scalable **microservice ecosystems** supporting millions of transactions  
 ✔ Delivered CI/CD pipelines enabling **zero-downtime deployments**  
 ✔ Automated cross-application testing using **BDD frameworks (SpecFlow, Cucumber, Selenium)**  
