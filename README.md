@@ -22,7 +22,7 @@ I take pride in engineering excellence through **discipline, continuous learning
 🔹 **Frontend**	Angular (2–18), React.js, Node.js (Express, NestJS), Ionic, HTML5, CSS3, JavaScript/jQuery/Bootstrap 
 🔹 **Cloud – AWS**	EC2, ECS, EBS, S3, VPC, IAM, Lambda, API Gateway, SQS, RDS, DynamoDB, CloudWatch, CloudFormation, Route53, ELB, Secrets Manager, Athena, Terraform   
 🔹 **Cloud – Azure**	Azure Data Lake, Databricks, Functions  
-🔹 **Architecture**	Microservices, Serverless, Event-Driven, REST, CI/CD Automation, Infrastructure as Code 
+🔹 **Architecture**	Microservices, Serverless, Event-Driven, REST, CI/CD Automation, Infrastructure as Code
 🔹 **Databases**	SQL Server, MySQL, PostgreSQL, Oracle, MongoDB, DynamoDB, Redis  
 🔹 **DevOps / Tools**	Git, SVN, TFS, Bitbucket, SonarQube, Bamboo, PowerShell, SnapLogic, Kafka, Swagger/OpenAPI  
 🔹 **Testing**	MSTest, NUnit, xUnit, JUnit, Jest, Jasmine/Karma/Mocha, Selenium WebDriver, SpecFlow, Cucumber, Katalon Studio, TDD/BDD/ATDD  
