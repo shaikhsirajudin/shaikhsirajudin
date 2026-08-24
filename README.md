@@ -19,10 +19,10 @@ I take pride in engineering excellence through **discipline, continuous learning
 🔹 **AI / ML (Growing)**	GPT-4o, OpenAI API, Prompt Engineering, LLM Application Development, MCP (Model Context Protocol) — .NET MCP SDK, LangChain (self-directed exploration), Retrieval-Augmented Generation (RAG) concepts, Python Automation  
 🔹 **Languages**	C#, Python, Go (Golang), JavaScript, TypeScript, Java, VB.NET, SQL
 .NET / Backend	.NET Framework – .NET Core/.NET 8, ASP.NET, ASP.NET MVC, Web API, WCF, Entity Framework, ADO.NET, REST, Spring Boot  
-🔹 **Frontend**	Angular (2–18), React.js, Node.js (Express, NestJS), Ionic, HTML5, CSS3, JavaScript/jQuery/Bootstrap 
+🔹 **Frontend**	Angular (2–18), React.js, Node.js (Express, NestJS), Ionic, HTML5, CSS3, JavaScript/jQuery/Bootstrap     
 🔹 **Cloud – AWS**	EC2, ECS, EBS, S3, VPC, IAM, Lambda, API Gateway, SQS, RDS, DynamoDB, CloudWatch, CloudFormation, Route53, ELB, Secrets Manager, Athena, Terraform   
 🔹 **Cloud – Azure**	Azure Data Lake, Databricks, Functions  
-🔹 **Architecture**	Microservices, Serverless, Event-Driven, REST, CI/CD Automation, Infrastructure as Code
+🔹 **Architecture**	Microservices, Serverless, Event-Driven, REST, CI/CD Automation, Infrastructure as Code    
 🔹 **Databases**	SQL Server, MySQL, PostgreSQL, Oracle, MongoDB, DynamoDB, Redis  
 🔹 **DevOps / Tools**	Git, SVN, TFS, Bitbucket, SonarQube, Bamboo, PowerShell, SnapLogic, Kafka, Swagger/OpenAPI  
 🔹 **Testing**	MSTest, NUnit, xUnit, JUnit, Jest, Jasmine/Karma/Mocha, Selenium WebDriver, SpecFlow, Cucumber, Katalon Studio, TDD/BDD/ATDD  
