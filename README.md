@@ -1,28 +1,32 @@
 <h1 align="center">👋 Hi, I'm Sirajuddin Qamaruddin Shaikh</h1>
 
 <h3 align="center">
-Principal Engineer & Application Architect • Lead .NET Full Stack Developer (AWS/Azure, Microservices) • Healthcare IT Solutions Expert
+Principal Engineer & Application Architect | AI-Augmented Full Stack Developer | .NET Core/.NET 8, Python, Go, Node.js & Angular | Healthcare IT Solutions | 22+ Years
 </h3>
 
 ---
 
 ### 🚀 Professional Summary
-20+ years of experience in **Enterprise Application Development**, **Cloud Architecture**, and **Healthcare IT** — specializing in building **scalable, secure, HIPAA-compliant systems**. Proven track record in delivering high-performance platforms using **.NET Core, C#, React, Angular, Go, Python, Nodejs**, and **AWS/Azure in distributed microservices environments**.
+Principal Software Engineer and Application Architect with 22+ years designing and delivering scalable, production-grade software across HIPAA-regulated healthcare systems. Full stack expertise spanning C#, .NET Core/.NET 8, Python, Go, and Node.js on the backend and Angular and React on the frontend, with hands-on experience building cloud-native, event-driven, and microservices architectures on AWS and Azure. Actively integrates AI-augmented engineering practices into daily delivery — using GitHub Copilot for code generation, refactoring, and test scaffolding, and ChatGPT/GPT-4o via the OpenAI API for solution design, debugging, and technical documentation — to accelerate throughput and improve code quality, while expanding hands-on skills in LLM application development, prompt engineering, and early exploration of frameworks like LangChain for agentic and retrieval-augmented (RAG) use cases. Deep healthcare domain knowledge across EMR, payer systems, claims processing, and HIPAA-regulated, FHIR, and SMART on FHIR standards.
 
 I take pride in engineering excellence through **discipline, continuous learning, and innovation** — aiming to create meaningful technology that enhances care delivery and improves lives.
 
 ---
 
 ### 🧠 Core Technical Expertise
-🔹 .NET • .NET Core • C# • MVC • Web API • WCF • Microservices  
-🔹 React • Angular • NestJS • TypeScript • JavaScript • Bootstrap  
-🔹 Go • Python • Nodejs  
-🔹 Java • Spring Boot  
-🔹 Event-Driven & Serverless Architectures   
-🔹 CI/CD • Bamboo • SonarQube • Bitbucket • Git • SVN • TFS  
-🔹 Cloud: **AWS (EC2 | ECS | EBS | Lambda | VPC | IAM | API Gateway | CloudWatch | RDS | SQS | S3 | Athena | CloudFormation | Kafka), Azure**  
-🔹 Databases: SQL Server • Oracle • MySQL • PostgreSQL • DynamoDB • MongoDB  
-🔹 Test Automation: Selenium • SpecFlow • Cucumber • Katalon • Jasmine • Jest • NUnit • MSTest  
+
+🔹 **AI / Productivity**	GitHub Copilot (AI pair-programming, code scaffolding, refactoring, unit test generation), ChatGPT (solution design, debugging, technical documentation, BDD/Gherkin test design)  
+🔹 **AI / ML (Growing)**	GPT-4o, OpenAI API, Prompt Engineering, LLM Application Development, MCP (Model Context Protocol) — .NET MCP SDK, LangChain (self-directed exploration), Retrieval-Augmented Generation (RAG) concepts, Python Automation  
+🔹 **Languages**	C#, Python, Go (Golang), JavaScript, TypeScript, Java, VB.NET, SQL
+.NET / Backend	.NET Framework – .NET Core/.NET 8, ASP.NET, ASP.NET MVC, Web API, WCF, Entity Framework, ADO.NET, REST, Spring Boot  
+🔹 **Frontend**	Angular (2–18), React.js, Node.js (Express, NestJS), Ionic, HTML5, CSS3, JavaScript/jQuery/Bootstrap 
+🔹 **Cloud – AWS**	EC2, ECS, EBS, S3, VPC, IAM, Lambda, API Gateway, SQS, RDS, DynamoDB, CloudWatch, CloudFormation, Route53, ELB, Secrets Manager, Athena, Terraform   
+🔹 **Cloud – Azure**	Azure Data Lake, Databricks, Functions  
+🔹 **Architecture**	Microservices, Serverless, Event-Driven, REST, CI/CD Automation, Infrastructure as Code 
+🔹 **Databases**	SQL Server, MySQL, PostgreSQL, Oracle, MongoDB, DynamoDB, Redis  
+🔹 **DevOps / Tools**	Git, SVN, TFS, Bitbucket, SonarQube, Bamboo, PowerShell, SnapLogic, Kafka, Swagger/OpenAPI  
+🔹 **Testing**	MSTest, NUnit, xUnit, JUnit, Jest, Jasmine/Karma/Mocha, Selenium WebDriver, SpecFlow, Cucumber, Katalon Studio, TDD/BDD/ATDD  
+🔹 **Healthcare**	HL7, X12, FHIR, NCPDP, HIPAA/PHI, EMR, Claims (837, CCLF, BAR), Facets  
 
 ---
 
