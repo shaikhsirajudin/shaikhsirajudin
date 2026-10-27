@@ -105,8 +105,8 @@ I take pride in engineering excellence through **discipline, continuous learning
 
 **Education**
 
-- 🎓 **M.S., Information Technology** — Vivekanand Institute of Advanced Studies in Management Science and Communication (2000–2002)
-- 🎓 **B.S., Computer Science & Mathematics** — Marathwada University (1997–2000)
+- 🎓 **M.Sc., Information Technology** — Vivekanand Institute of Advanced Studies in Management Science and Communication (2000–2002)
+- 🎓 **B.Sc., Computer Science & Mathematics** — Marathwada University (1997–2000)
 
 **Certifications**
 
